@@ -10,5 +10,5 @@ dependencies = [
     "jupyterlab",
     "matplotlib>=3.5,<4",
     "numpy<2",
-    "torch==1.13.1",
+    "torch==1.12.1",
 ]
